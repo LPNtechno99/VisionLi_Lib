@@ -1,0 +1,2 @@
+D:\XLA\VisionLi\VisionLi\bin\VisionLi.pdb
+D:\XLA\VisionLi\VisionLi\VisionLi\x64\Debug\VisionLi.pdb
